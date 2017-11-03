@@ -1,0 +1,86 @@
+###CULTURE LEGEND###
+
+#english #scottish #pictish #welsh #irish
+#norwegian #danish #swedish #german #dutch
+#italian #frankish #castillan #occitan #catalan #portuguese #norman
+#bohemian #polish #pommeranian
+#croatian #serbian #bulgarian
+#russian
+#finnish #hungarian #ugricbaltic
+#lithuanian
+
+####################
+
+e_italy = {
+	italian = Italia
+	frankish = Italie
+	norman = Italie
+	german = Italien
+	old_frankish = Italien
+	lombard = Italien
+	castillan = Italia
+	portuguese = Itália
+}
+
+k_italy = {
+	italian = Italia
+	frankish = Italie
+	norman = Italie
+	german = Italien
+	old_frankish = Italien
+	lombard = Italien
+	castillan = Italia
+	portuguese = Itália
+}
+
+k_aragon = {
+	german = Aragonien
+	old_frankish = Aragonien
+	suebi = Aragonien
+	visigothic = Aragonien
+	castillan = Aragón
+	catalan = Aragón
+	portuguese = Aragão
+	italian = Aragona
+	
+}
+
+k_castille = {
+	italian = Castiglia
+	catalan = Castilla
+	portuguese = Castela
+	castillan = Castilla
+	frankish = Castille
+	german = Kastilien
+	old_frankish = Kastilien
+	suebi = Kastilien
+	visigothic = Kastilien
+	lombard = Kastilien
+}
+
+k_spanish_galicia = {
+	german = Galicien
+	old_frankish = Galicien
+	suebi = Galicien
+	visigothic = Galicien
+	portuguese = Galiza
+	italian = Galizia
+	frankish = Galice
+}
+
+k_andalusia = {
+	andalusian_arabic = "Al Andalus"
+	maghreb_arabic = "Al Andalus"
+	egyptian_arabic = "Al Andalus"
+	bedouin_arabic = "Al Andalus"
+	italian = Andalusia
+	catalan = Andalucía
+	portuguese = Andaluzia
+	castillan = Andalucía
+	frankish = Andalousie
+	german = Andalusien
+	old_frankish = Andalusien
+	suebi = Andalusien
+	visigothic = Andalusien
+	lombard = Andalusien
+}

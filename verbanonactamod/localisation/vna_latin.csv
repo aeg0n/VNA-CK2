@@ -1,0 +1,64 @@
+#italian
+#Titles
+emperor_italian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+emperor_female_italian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+empire_of_italian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+king_italian;Re;Re;Re;;Re;;;;;;;;;x
+king_female_italian;Regina;Regina;Regina;;Regina;;;;;;;;;x
+kingdom_of_italian;Regno di;Regno di;Regno di;;Regno di;;;;;;;;;x
+title_prince_italian;Principe;Principe;Principe;;Principe;;;;;;;;;x
+title_prince_female_italian;Principessa;Principessa;Principessa;;Principessa;;;;;;;;;x
+duke_italian;Duca;Duca;Duca;;Duca;;;;;;;;;x
+duke_female_italian;Duchessa;Duchessa;Duchessa;;Duchessa;;;;;;;;;x
+duchy_of_italian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+count_italian;Conte;Conte;Conte;;Conte;;;;;;;;;x
+count_female_italian;Contessa;Contessa;Contessa;;Contessa;;;;;;;;;x
+county_of_italian;Contea di;Contea di;Contea di;;Contea di;;;;;;;;;x
+#frankish
+#Titles
+emperor_frankish;Empereur;Empereur;Empereur;;Empereur;;;;;;;;;x
+emperor_female_frankish;Impératrice;Impératrice;Impératrice;;Impératrice;;;;;;;;;x
+empire_of_frankish;Empire de;Empire de;Empire de;;Empire de;;;;;;;;;x
+king_frankish;Roi;Roi;Roi;;Roi;;;;;;;;;x
+king_female_frankish;Reine;Reine;Reine;;Reine;;;;;;;;;x
+kingdom_of_frankish;Royaume de;Royaume de;Royaume de;;Royaume de;;;;;;;;;x
+title_prince_frankish;Prince;Prince;Prince;;Prince;;;;;;;;;x
+title_prince_female_frankish;Princesse;Princesse;Princesse;;Princesse;;;;;;;;;x
+duke_frankish;Duc;Duc;Duc;;Duc;;;;;;;;;x
+duke_female_frankish;Duchesse;Duchesse;Duchesse;;Duchesse;;;;;;;;;x
+duchy_of_frankish;Duché de;Duché de;Duché de;;Duché de;;;;;;;;;x
+count_frankish;Comte;Comte;Comte;;Comte;;;;;;;;;x
+count_female_frankish;Comtesse;Comtesse;Comtesse;;Comtesse;;;;;;;;;x
+county_of_frankish;Comté de;Comté de;Comté de;;Comté de;;;;;;;;;x
+#occitan
+#Titles
+emperor_occitan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+emperor_female_occitan;Emperaira;Emperaira;Emperaira;;Emperaira;;;;;;;;;x
+empire_of_occitan;Empèri de;Empèri de;Empèri de;;Empèri de;;;;;;;;;x
+king_occitan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+king_female_occitan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+kingdom_of_occitan;Reiaume de;Reiaume de;Reiaume de;;Reiaume de;;;;;;;;;x
+title_prince_occitan;Princi;Princi;Princi;;Princi;;;;;;;;;x
+title_prince_female_occitan;Princessa;Princessa;Princessa;;Princessa;;;;;;;;;x
+duke_occitan;Duc;Duc;Duc;;Duc;;;;;;;;;x
+duke_female_occitan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+duchy_of_occitan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+count_occitan;Comte;Comte;Comte;;Comte;;;;;;;;;x
+count_female_occitan;Comtessa;Comtessa;Comtessa;;Comtessa;;;;;;;;;x
+county_of_occitan;Comtat de;Comtat de;Comtat de;;Comtat de;;;;;;;;;x
+#norman
+#Titles -PH-
+emperor_norman;Empereur;Empereur;Empereur;;Empereur;;;;;;;;;x
+emperor_female_norman;Impératrice;Impératrice;Impératrice;;Impératrice;;;;;;;;;x
+empire_of_norman;Empire de;Empire de;Empire de;;Empire de;;;;;;;;;x
+king_norman;Roi;Roi;Roi;;Roi;;;;;;;;;x
+king_female_norman;Reine;Reine;Reine;;Reine;;;;;;;;;x
+kingdom_of_norman;Royaume de;Royaume de;Royaume de;;Royaume de;;;;;;;;;x
+title_prince_norman;Prince;Prince;Prince;;Prince;;;;;;;;;x
+title_prince_female_norman;Princesse;Princesse;Princesse;;Princesse;;;;;;;;;x
+duke_norman;Duc;Duc;Duc;;Duc;;;;;;;;;x
+duke_female_norman;Duchesse;Duchesse;Duchesse;;Duchesse;;;;;;;;;x
+duchy_of_norman;Duché de;Duché de;Duché de;;Duché de;;;;;;;;;x
+count_norman;Comte;Comte;Comte;;Comte;;;;;;;;;x
+count_female_norman;Comtesse;Comtesse;Comtesse;;Comtesse;;;;;;;;;x
+county_of_norman;Comté de;Comté de;Comté de;;Comté de;;;;;;;;;x

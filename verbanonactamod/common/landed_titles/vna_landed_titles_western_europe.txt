@@ -1,0 +1,66 @@
+###CULTURE LEGEND###
+
+#english #scottish #pictish #welsh #irish
+#norwegian #danish #swedish #german #dutch
+#italian #frankish #castillan #occitan #catalan #portuguese #norman
+#bohemian #polish #pommeranian
+#croatian #serbian #bulgarian
+#russian
+#finnish #hungarian #ugricbaltic
+#lithuanian
+
+####################
+
+e_hre = {
+	german  = "Heiliges Römisches Reich"
+	old_frankish = "Heiliges Römisches Reich"
+	frankish = "Saint Empire Romain"
+	bohemian = "Svatá Ríše Rímská"
+}
+
+k_germany = {
+	german = Deutschland
+	#old_frankish = Deutschland
+	frankish = Allemagne
+	bohemian = Nemecko
+	polish = Niemcy
+	occitan = Allemagne
+	italian = Germania
+	norwegian = Tyskland
+	swedish = Tyskland
+	danish = Tyskland
+}
+
+k_bavaria = {
+	german = Bayern
+	old_frankish = Bayern
+	frankish = Bavière
+	bohemian = Bavorsko
+	polish = Bawaria
+	occitan = Bavière
+	italian = Baviera
+}
+
+k_france = {
+	german = Frankreich
+	italian = Francia
+}
+
+k_aquitaine = {
+	german = Aquitanien
+	occitan = Aquitània
+}
+
+k_frisia = {
+	dutch = Nederlanden
+	frisian = Fryske
+}
+
+k_lotharingia = {
+	german = Lotharingien
+}
+
+k_burgundy = {
+	german = Burgund
+	frankish = Arles
+}

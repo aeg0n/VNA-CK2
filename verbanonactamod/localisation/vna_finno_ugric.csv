@@ -1,0 +1,33 @@
+#hungarian
+#Titles
+emperor_hungarian;Csaszar;Csaszar;Csaszar;;Csaszar;;;;;;;;;x
+emperor_female_hungarian;Csaszarno;Csaszarno;Csaszarno;;Csaszarno;;;;;;;;;x
+empire_of_hungarian;Birodalom;Birodalom;Birodalom;;Birodalom;;;;;;;;;x
+king_hungarian;Kiraly;Kiraly;Kiraly;;Kiraly;;;;;;;;;x
+king_female_hungarian;Kiralyno;Kiralyno;Kiralyno;;Kiralyno;;;;;;;;;x
+kingdom_of_hungarian;Kiralysag of;Kiralysag of;Kiralysag of;;Kiralysag of;;;;;;;;;x
+title_prince_hungarian;Herceg;Herceg;Herceg;;Herceg;;;;;;;;;x
+title_prince_female_hungarian;Hercegno;Hercegno;Hercegno;;Hercegno;;;;;;;;;x
+duke_hungarian;Herceg;Herceg;Herceg;;Herceg;;;;;;;;;x
+duke_female_hungarian;Hercegno;Hercegno;Hercegno;;Hercegno;;;;;;;;;x
+duchy_of_hungarian;Hercegseg of;Hercegseg of;Hercegseg of;;Hercegseg of;;;;;;;;;x
+count_hungarian;Grof;Grof;Grof;;Grof;;;;;;;;;x
+count_female_hungarian;Grofno;Grofno;Grofno;;Grofno;;;;;;;;;x
+county_of_hungarian;Varmegye of;Varmegye of;Varmegye of;;Varmegye of;;;;;;;;;x
+
+#finnish
+#Titles
+emperor_finnish;Keisari;Keisari;Keisari;;Keisari;;;;;;;;;x
+emperor_female_finnish;Keisarinna;Keisarinna;Keisarinna;;Keisarinna;;;;;;;;;x
+empire_of_finnish;Keisarikunta;Keisarikunta;Keisarikunta;;Keisarikunta;;;;;;;;;x
+king_finnish;Kuningas;Kuningas;Kuningas;;Kuningas;;;;;;;;;x
+king_female_finnish;Kuningatar;Kuningatar;Kuningatar;;Kuningatar;;;;;;;;;x
+kingdom_of_finnish;Kuningaskunta of;Kuningaskunta of;Kuningaskunta of;;Kuningaskunta of;;;;;;;;;x
+title_prince_finnish;Prinssi;Prinssi;Prinssi;;Prinssi;;;;;;;;;x
+title_prince_female_finnish;Prinsessa;Prinsessa;Prinsessa;;Prinsessa;;;;;;;;;x
+duke_finnish;Herttua;Herttua;Herttua;;Herttua;;;;;;;;;x
+duke_female_finnish;Herttuatar;Herttuatar;Herttuatar;;Herttuatar;;;;;;;;;x
+duchy_of_finnish;Herttuakunta of;Herttuakunta of;Herttuakunta of;;Herttuakunta of;;;;;;;;;x
+count_finnish;Kreivi;Kreivi;Kreivi;;Kreivi;;;;;;;;;x
+count_female_finnish;Kreivitar;Kreivitar;Kreivitar;;Kreivitar;;;;;;;;;x
+county_of_finnish;Laani of;Laani of;Laani of;;Laani of;;;;;;;;;x

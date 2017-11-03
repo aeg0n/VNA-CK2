@@ -1,0 +1,33 @@
+#east_slavic
+#Titles
+emperor_east_slavic;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+emperor_female_east_slavic;Imperatritsa;Imperatritsa;Imperatritsa;;Imperatritsa;;;;;;;;;x
+empire_of_east_slavic;Imperiya;Imperiya;Imperiya;;Imperiya;;;;;;;;;x
+king_east_slavic;Tsar;Tsar;Tsar;;Tsar;;;;;;;;;x
+king_female_east_slavic;Tsaritsa;Tsaritsa;Tsaritsa;;Tsaritsa;;;;;;;;;x
+kingdom_of_east_slavic;Tsarstvo;Tsarstvo;Tsarstvo;;Tsarstvo;;;;;;;;;x
+title_prince_east_slavic;Tsarevich;Tsarevich;Tsarevich;;Tsarevich;;;;;;;;;x
+title_prince_female_east_slavic;Tsarevna;Tsarevna;Tsarevna;;Tsarevna;;;;;;;;;x
+duke_east_slavic;Knyaz;Knyaz;Knyaz;;Knyaz;;;;;;;;;x
+duke_female_east_slavic;Knyaginya;Knyaginya;Knyaginya;;Knyaginya;;;;;;;;;x
+duchy_of_east_slavic;Knyazhestvo;Knyazhestvo;Knyazhestvo;;Knyazhestvo;;;;;;;;;x
+count_east_slavic;Boyarin;Boyarin;Boyarin;;Boyarin;;;;;;;;;x
+count_female_east_slavic;Boyarinya;Boyarinya;Boyarinya;;Boyarinya;;;;;;;;;x
+county_of_east_slavic;Udel of;Udel of;Udel of;;Udel of;;;;;;;;;x
+
+#russian
+#Titles
+emperor_russian;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+emperor_female_russian;Imperatritsa;Imperatritsa;Imperatritsa;;Imperatritsa;;;;;;;;;x
+empire_of_russian;Imperiya;Imperiya;Imperiya;;Imperiya;;;;;;;;;x
+king_russian;Tsar;Tsar;Tsar;;Tsar;;;;;;;;;x
+king_female_russian;Tsaritsa;Tsaritsa;Tsaritsa;;Tsaritsa;;;;;;;;;x
+kingdom_of_russian;Tsarstvo;Tsarstvo;Tsarstvo;;Tsarstvo;;;;;;;;;x
+title_prince_russian;Tsarevich;Tsarevich;Tsarevich;;Tsarevich;;;;;;;;;x
+title_prince_female_russian;Tsarevna;Tsarevna;Tsarevna;;Tsarevna;;;;;;;;;x
+duke_russian;Knyaz;Knyaz;Knyaz;;Knyaz;;;;;;;;;x
+duke_female_russian;Knyaginya;Knyaginya;Knyaginya;;Knyaginya;;;;;;;;;x
+duchy_of_russian;Knyazhestvo;Knyazhestvo;Knyazhestvo;;Knyazhestvo;;;;;;;;;x
+count_russian;Boyarin;Boyarin;Boyarin;;Boyarin;;;;;;;;;x
+count_female_russian;Boyarinya;Boyarinya;Boyarinya;;Boyarinya;;;;;;;;;x
+county_of_russian;Udel of;Udel of;Udel of;;Udel of;;;;;;;;;x

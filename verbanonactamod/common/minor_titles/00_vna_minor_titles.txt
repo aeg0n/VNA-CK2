@@ -1,0 +1,52 @@
+title_vna_kurfurst = {
+	dignity = 0.9
+	realm_in_name = yes
+	grant_limit = 7 #After 7 original Electors
+	opinion_effect = 15
+	
+	monthly_salary = 0
+	monthly_prestige = 0.75
+	
+	allowed_to_hold = {
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+		OR = { 
+			is_female = no
+			liege = {
+				OR = {
+					primary_title = {
+						has_law = status_of_women_3
+					}
+					primary_title = {
+						has_law = status_of_women_4
+					}
+					has_game_rule = {
+						name = gender
+						value = all
+					}
+				}
+			}
+		}
+		primary_title = {
+			OR = {
+				tier = king
+				tier = duke
+			}
+		}
+		liege = { character = FROM }
+	}
+	
+	allowed_to_grant = {
+		has_landed_title = e_hre
+		religion_group = christian
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}

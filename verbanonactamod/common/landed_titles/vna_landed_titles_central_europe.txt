@@ -1,0 +1,67 @@
+###CULTURE LEGEND###
+
+#english #scottish #pictish #welsh #irish
+#norwegian #danish #swedish #german
+#italian #frankish #castillan #occitan #catalan #portuguese #norman
+#bohemian #polish #pommeranian
+#croatian #serbian #bulgarian
+#russian
+#finnish #hungarian #ugricbaltic
+#lithuanian
+
+####################
+
+k_hungary = {
+	hungarian = Magyar
+	german = Ungarn
+	polish = Wegry
+	pommeranian = Wegry
+	croatian = Madarska
+	serbian = Madarska
+	bulgarian = Ungarija
+	russian = Vengrija
+	lithuanian = Vengrija
+	bohemian = Madarsko
+}
+
+k_poland = {
+	hungarian = Lengyelország
+	german = Polen
+	polish = Polskie
+	pommeranian = Polskie
+	croatian = Poljska
+	serbian = Poljska
+	bulgarian = Polsha
+	russian = Polsha
+	lithuanian = Lenkija
+	bohemian = Polsko
+}
+
+k_bohemia = {
+	hungarian = Csehország
+	german = Böhmen
+	polish = Czechy
+	pommeranian = Czechy
+	croatian = Ceška
+	serbian = Ceška
+	bulgarian = Bohemija
+	russian = Bogemija
+	lithuanian = Bohemija
+	bohemian = Ceské
+
+}
+
+k_pomerania = {
+	lithuanian = Pomeranija
+	hungarian = Pomeránia
+	german = Pommern
+	polish = Pomorze
+	bohemian = Pomoransko
+	pommeranian = Pomorze
+	croatian = Pomorje
+	serbian = Pomorje
+	bulgarian = Pomeranija
+	russian = Pomeranija
+	
+	
+}

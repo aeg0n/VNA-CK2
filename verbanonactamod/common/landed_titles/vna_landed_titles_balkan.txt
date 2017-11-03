@@ -1,0 +1,37 @@
+###CULTURE LEGEND###
+
+#english #scottish #pictish #welsh #irish
+#norwegian #danish #swedish #german
+#italian #frankish #castillan #occitan #catalan #portuguese #norman
+#bohemian #polish
+#croatian #serbian #bulgarian
+#russian
+#finnish #hungarian #ugricbaltic
+#lithuanian
+
+####################
+
+
+k_croatia = {
+	croatian = Hrvatska
+	serbian = Hrvatska
+	bulgarian = Hurvatija
+	hungarian = Horvatorszag
+	german = Kroatien
+	italian = Croazia
+}
+
+k_serbia = {
+	serbian = Srbija
+	bulgarian = Surbija
+	croatian = Srbija
+	hungarian = Szerbia
+	german = Serbien
+}
+
+k_bulgaria = {
+	bulgarian = Balgariya
+	croatian = Bugarska
+	serbian = Bugarska
+	german = Bulgarien
+}

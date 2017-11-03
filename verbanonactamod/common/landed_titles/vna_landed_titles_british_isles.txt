@@ -1,0 +1,52 @@
+###CULTURE LEGEND###
+
+#english #scottish #pictish #welsh #irish
+#norwegian #danish #swedish #german
+#italian #frankish #castillan #occitan #catalan #portuguese #norman
+#bohemian #polish
+#croatian #serbian #bulgarian
+#russian
+#finnish #hungarian #ugricbaltic
+#lithuanian
+
+####################
+
+k_england = {
+	saxon = Englaland
+	norman = Angliétèrre
+	scottish = Sasainn
+	pictish = Sasainn
+	welsh = Lloegr
+	irish = Sasana
+}
+
+k_scotland = {
+	norman = Écosse
+	scottish = Alba
+	pictish = Alba
+	welsh = Alban
+	irish = Albain
+	norwegian = Skottland
+	danish = Skotland
+	swedish = Skottland
+	german = Schottland
+}
+
+k_wales = {
+	norman = "Pays de Galles"
+	scottish = Chuimrigh
+	pictish = Chuimrigh
+	welsh = Cymru
+	irish = "An Bhreatain Bheag"
+}
+
+k_ireland = {
+	norman = Irlande
+	scottish = Èirinn
+	pictish = Èirinn
+	welsh = Iwerddon
+	norwegian = Irland
+	danish = Irland
+	swedish = Irland
+	german = Irland
+}

@@ -1,0 +1,25 @@
+###CULTURE LEGEND###
+
+#english #scottish #pictish #welsh #irish
+#norwegian #danish #swedish #german #dutch
+#italian #frankish #castillan #occitan #catalan #portuguese #norman
+#bohemian #polish #pommeranian
+#croatian #serbian #bulgarian
+#russian
+#finnish #hungarian #ugricbaltic
+#lithuanian
+
+####################
+
+k_rus = {
+	russian = Rus
+	polish = Rosja
+	bohemian = Rusko
+	hungarian = Oroszország
+	lithuanian = Venemaa
+	croatian = Rusija
+	serbian = Rusija
+	bulgarian = Rusija
+	finnish = Venäjä
+	german = Russland
+}

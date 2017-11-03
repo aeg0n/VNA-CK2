@@ -1,0 +1,64 @@
+#castillan
+#Titles
+emperor_castillan;Emperador;Emperador;Emperador;;Emperador;;;;;;;;;x
+emperor_female_castillan;Emperatriz;Emperatriz;Emperatriz;;Emperatriz;;;;;;;;;x
+empire_of_castillan;Imperio de;Imperio de;Imperio de;;Imperio de;;;;;;;;;x
+king_castillan;Rey;Rey;Rey;;Rey;;;;;;;;;x
+king_female_castillan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+kingdom_of_castillan;Reino de;Reino de;Reino de;;Reino de;;;;;;;;;x
+title_prince_castillan;Infante;Infante;Infante;;Infante;;;;;;;;;x
+title_prince_female_castillan;Infanta;Infanta;Infanta;;Infanta;;;;;;;;;x
+duke_castillan;Duque;Duque;Duque;;Duque;;;;;;;;;x
+duke_female_castillan;Duquesa;Duquesa;Duquesa;;Duquesa;;;;;;;;;x
+duchy_of_castillan;Ducado de;Ducado de;Ducado de;;Ducado de;;;;;;;;;x
+count_castillan;Conde;Conde;Conde;;Conde;;;;;;;;;x
+count_female_castillan;Condesa;Condesa;Condesa;;Condesa;;;;;;;;;x
+county_of_castillan;Condado de;Condado de;Condado de;;Condado de;;;;;;;;;x
+#basque
+#Titles -PH-
+emperor_basque;Emperador;Emperador;Emperador;;Emperador;;;;;;;;;x
+emperor_female_basque;Emperatriz;Emperatriz;Emperatriz;;Emperatriz;;;;;;;;;x
+empire_of_basque;Imperio de;Imperio de;Imperio de;;Imperio de;;;;;;;;;x
+king_basque;Rey;Rey;Rey;;Rey;;;;;;;;;x
+king_female_basque;Reina;Reina;Reina;;Reina;;;;;;;;;x
+kingdom_of_basque;Reino de;Reino de;Reino de;;Reino de;;;;;;;;;x
+title_prince_basque;Infante;Infante;Infante;;Infante;;;;;;;;;x
+title_prince_female_basque;Infanta;Infanta;Infanta;;Infanta;;;;;;;;;x
+duke_basque;Duque;Duque;Duque;;Duque;;;;;;;;;x
+duke_female_basque;Duquesa;Duquesa;Duquesa;;Duquesa;;;;;;;;;x
+duchy_of_basque;Ducado de;Ducado de;Ducado de;;Ducado de;;;;;;;;;x
+count_basque;Conde;Conde;Conde;;Conde;;;;;;;;;x
+count_female_basque;Condesa;Condesa;Condesa;;Condesa;;;;;;;;;x
+county_of_basque;Condado de;Condado de;Condado de;;Condado de;;;;;;;;;x
+#portuguese
+#Titles
+emperor_portuguese;Imperador;Imperador;Imperador;;Imperador;;;;;;;;;x
+emperor_female_portuguese;Imperatriz;Imperatriz;Imperatriz;;Imperatriz;;;;;;;;;x
+empire_of_portuguese;Império de;Império de;Império de;;Império de;;;;;;;;;x
+king_portuguese;Rei;Rei;Rei;;Rei;;;;;;;;;x
+king_female_portuguese;Rainha;Rainha;Rainha;;Rainha;;;;;;;;;x
+kingdom_of_portuguese;Reino de;Reino de;Reino de;;Reino de;;;;;;;;;x
+title_prince_portuguese;Príncipe;Príncipe;Príncipe;;Príncipe;;;;;;;;;x
+title_prince_female_portuguese;Princesa;Princesa;Princesa;;Princesa;;;;;;;;;x
+duke_portuguese;Duque;Duque;Duque;;Duque;;;;;;;;;x
+duke_female_portuguese;Duquesa;Duquesa;Duquesa;;Duquesa;;;;;;;;;x
+duchy_of_portuguese;Ducado de;Ducado de;Ducado de;;Ducado de;;;;;;;;;x
+count_portuguese;Conde;Conde;Conde;;Conde;;;;;;;;;x
+count_female_portuguese;Condesa;Condesa;Condesa;;Condesa;;;;;;;;;x
+county_of_portuguese;Condado de;Condado de;Condado de;;Condado de;;;;;;;;;x
+#catalan
+#Titles
+emperor_catalan;Emperador;Emperador;Emperador;;Emperador;;;;;;;;;x
+emperor_female_catalan;Emperadriu;Emperadriu;Emperadriu;;Emperadriu;;;;;;;;;x
+empire_of_catalan;Imperi de;Imperi de;Imperi de;;Imperi de;;;;;;;;;x
+king_catalan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+king_female_catalan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+kingdom_of_catalan;Regne de;Regne de;Regne de;;Regne de;;;;;;;;;x
+title_prince_catalan;Príncep;Príncep;Príncep;;Príncep;;;;;;;;;x
+title_prince_female_catalan;Princesa;Princesa;Princesa;;Princesa;;;;;;;;;x
+duke_catalan;Duc;Duc;Duc;;Duc;;;;;;;;;x
+duke_female_catalan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+duchy_of_catalan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+count_catalan;Comte;Comte;Comte;;Comte;;;;;;;;;x
+count_female_catalan;Comtessa;Comtessa;Comtessa;;Comtessa;;;;;;;;;x
+county_of_catalan;Comtat de;Comtat de;Comtat de;;Comtat de;;;;;;;;;x

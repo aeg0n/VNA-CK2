@@ -1,0 +1,64 @@
+###CULTURE LEGEND###
+
+#english #scottish #pictish #welsh #irish
+#norwegian #danish #swedish #german #dutch
+#italian #frankish #castillan #occitan #catalan #portuguese #norman
+#bohemian #polish #pommeranian
+#croatian #serbian #bulgarian
+#russian
+#finnish #hungarian #ugricbaltic
+#lithuanian
+
+####################
+
+k_denmark = {
+	swedish = Danmark
+	norwegian = Danmark
+	danish = Danmark
+	german = Dänemark
+	polish = Dania
+	pommeranian = Dania
+	bohemian = Dánsko
+	lithuanian = Danija
+	ugricbaltic = Taani
+	finnish = Tanska
+}
+
+k_sweden = {
+	swedish = Sverike
+	norwegian = Sverike
+	danish = Sverike
+	german = Schweden
+	polish = Szwecja
+	pommeranian = Szwecja
+	bohemian = Švédsko
+	lithuanian = Švedija
+	ugricbaltic = Rootsi
+	finnish = Ruotsi
+}
+
+k_norway = {
+	swedish = Norge
+	norwegian = Norge
+	danish = Norge
+	german = Norwegen
+	polish = Norwegia
+	pommeranian = Norwegia
+	bohemian = Norsko
+	lithuanian = Norvegija
+	ugricbaltic = Norra
+	finnish = Norja
+}
+
+k_finland = {
+	swedish = Finland
+	norwegian = Finland
+	danish = Finland
+	german = Finnland
+	polish = Finlandia
+	pommeranian = Finlandia
+	bohemian = Finsko
+	lithuanian = Suomija
+	ugricbaltic = Soome
+	finnish = Suomi
+}

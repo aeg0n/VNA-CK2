@@ -1,0 +1,192 @@
+#german
+#Titles
+emperor_german;Kaiser;Kaiser;Kaiser;;Kaiser;;;;;;;;;x
+emperor_female_german;Kaiserin;Kaiserin;Kaiserin;;Kaiserin;;;;;;;;;x
+empire_of_german;Reich von;Reich von;Reich von;;Reich von;;;;;;;;;x
+king_german;K鰊ig;K鰊ig;K鰊ig;;K鰊ig;;;;;;;;;x
+king_female_german;K鰊igin;K鰊igin;K鰊igin;;K鰊igin;;;;;;;;;x
+kingdom_of_german;K鰊igreich;K鰊igreich;K鰊igreich;;K鰊igreich;;;;;;;;;x
+title_prince_german;Prinz;Prinz;Prinz;;Prinz;;;;;;;;;x
+title_prince_female_german;Prinzessin;Prinzessin;Prinzessin;;Prinzessin;;;;;;;;;x
+duke_german;Herzog;Herzog;Herzog;;Herzog;;;;;;;;;x
+duke_female_german;Herzogin;Herzogin;Herzogin;;Herzogin;;;;;;;;;x
+duchy_of_german;Herzogtum von;Herzogtum von;Herzogtum von;;Herzogtum von;;;;;;;;;x
+count_german;Graf;Graf;Graf;;Graf;;;;;;;;;x
+count_female_german;Gr鋐in;Gr鋐in;Gr鋐in;;Gr鋐in;;;;;;;;;x
+county_of_german;Grafschaft von;Grafschaft von;Grafschaft von;;Grafschaft von;;;;;;;;;x
+#lombard
+#Titles -PH-
+emperor_lombard;Kaiser;Kaiser;Kaiser;;Kaiser;;;;;;;;;x
+emperor_female_lombard;Kaiserin;Kaiserin;Kaiserin;;Kaiserin;;;;;;;;;x
+empire_of_lombard;Reich von;Reich von;Reich von;;Reich von;;;;;;;;;x
+king_lombard;K鰊ig;K鰊ig;K鰊ig;;K鰊ig;;;;;;;;;x
+king_female_lombard;K鰊igin;K鰊igin;K鰊igin;;K鰊igin;;;;;;;;;x
+kingdom_of_lombard;K鰊igreich;K鰊igreich;K鰊igreich;;K鰊igreich;;;;;;;;;x
+title_prince_lombard;Prinz;Prinz;Prinz;;Prinz;;;;;;;;;x
+title_prince_female_lombard;Prinzessin;Prinzessin;Prinzessin;;Prinzessin;;;;;;;;;x
+duke_lombard;Herzog;Herzog;Herzog;;Herzog;;;;;;;;;x
+duke_female_lombard;Herzogin;Herzogin;Herzogin;;Herzogin;;;;;;;;;x
+duchy_of_lombard;Herzogtum von;Herzogtum von;Herzogtum von;;Herzogtum von;;;;;;;;;x
+count_lombard;Graf;Graf;Graf;;Graf;;;;;;;;;x
+count_female_lombard;Gr鋐in;Gr鋐in;Gr鋐in;;Gr鋐in;;;;;;;;;x
+county_of_lombard;Grafschaft von;Grafschaft von;Grafschaft von;;Grafschaft von;;;;;;;;;x
+#old_frankish
+#Titles
+emperor_old_frankish;Kaiser;Kaiser;Kaiser;;Kaiser;;;;;;;;;x
+emperor_female_old_frankish;Kaiserin;Kaiserin;Kaiserin;;Kaiserin;;;;;;;;;x
+empire_of_old_frankish;Reich von;Reich von;Reich von;;Reich von;;;;;;;;;x
+king_old_frankish;K鰊ig;K鰊ig;K鰊ig;;K鰊ig;;;;;;;;;x
+king_female_old_frankish;K鰊igin;K鰊igin;K鰊igin;;K鰊igin;;;;;;;;;x
+kingdom_of_old_frankish;K鰊igreich;K鰊igreich;K鰊igreich;;K鰊igreich;;;;;;;;;x
+title_prince_old_frankish;Prinz;Prinz;Prinz;;Prinz;;;;;;;;;x
+title_prince_female_old_frankish;Prinzessin;Prinzessin;Prinzessin;;Prinzessin;;;;;;;;;x
+duke_old_frankish;Herzog;Herzog;Herzog;;Herzog;;;;;;;;;x
+duke_female_old_frankish;Herzogin;Herzogin;Herzogin;;Herzogin;;;;;;;;;x
+duchy_of_old_frankish;Herzogtum von;Herzogtum von;Herzogtum von;;Herzogtum von;;;;;;;;;x
+count_old_frankish;Graf;Graf;Graf;;Graf;;;;;;;;;x
+count_female_old_frankish;Gr鋐in;Gr鋐in;Gr鋐in;;Gr鋐in;;;;;;;;;x
+county_of_old_frankish;Grafschaft von;Grafschaft von;Grafschaft von;;Grafschaft von;;;;;;;;;x
+#dutch
+#Titles
+emperor_dutch;Keizer;Keizer;Keizer;;Keizer;;;;;;;;;x
+emperor_female_dutch;Keizerin;Keizerin;Keizerin;;Keizerin;;;;;;;;;x
+empire_of_dutch;Rijk van;Rijk van;Rijk van;;Rijk van;;;;;;;;;x
+king_dutch;Koning;Koning;Koning;;Koning;;;;;;;;;x
+king_female_dutch;Koningin;Koningin;Koningin;;Koningin;;;;;;;;;x
+kingdom_of_dutch;Koninkrijk van;Koninkrijk van;Koninkrijk van;;Koninkrijk van;;;;;;;;;x
+title_prince_dutch;Prins;Prins;Prins;;Prins;;;;;;;;;x
+title_prince_female_dutch;Prinses;Prinses;Prinses;;Prinses;;;;;;;;;x
+duke_dutch;Hertog;Hertog;Hertog;;Hertog;;;;;;;;;x
+duke_female_dutch;Hertogin;Hertogin;Hertogin;;Hertogin;;;;;;;;;x
+duchy_of_dutch;Hertogdom van;Hertogdom van;Hertogdom van;;Hertogdom van;;;;;;;;;x
+count_dutch;Graaf;Graaf;Graaf;;Graaf;;;;;;;;;x
+count_female_dutch;Gravin;Gravin;Gravin;;Gravin;;;;;;;;;x
+county_of_dutch;Graafschap van;Graafschap van;Graafschap van;;Graafschap van;;;;;;;;;x
+#frisian
+#Titles -PH-
+emperor_frisian;Keizer;Keizer;Keizer;;Keizer;;;;;;;;;x
+emperor_female_frisian;Keizerin;Keizerin;Keizerin;;Keizerin;;;;;;;;;x
+empire_of_frisian;Rijk van;Rijk van;Rijk van;;Rijk van;;;;;;;;;x
+king_frisian;Koning;Koning;Koning;;Koning;;;;;;;;;x
+king_female_frisian;Koningin;Koningin;Koningin;;Koningin;;;;;;;;;x
+kingdom_of_frisian;Koninkrijk van;Koninkrijk van;Koninkrijk van;;Koninkrijk van;;;;;;;;;x
+title_prince_frisian;Prins;Prins;Prins;;Prins;;;;;;;;;x
+title_prince_female_frisian;Prinses;Prinses;Prinses;;Prinses;;;;;;;;;x
+duke_frisian;Hertog;Hertog;Hertog;;Hertog;;;;;;;;;x
+duke_female_frisian;Hertogin;Hertogin;Hertogin;;Hertogin;;;;;;;;;x
+duchy_of_frisian;Hertogdom van;Hertogdom van;Hertogdom van;;Hertogdom van;;;;;;;;;x
+count_frisian;Graaf;Graaf;Graaf;;Graaf;;;;;;;;;x
+count_female_frisian;Gravin;Gravin;Gravin;;Gravin;;;;;;;;;x
+county_of_frisian;Graafschap van;Graafschap van;Graafschap van;;Graafschap van;;;;;;;;;x
+#swedish
+#Titles
+emperor_swedish;Kejsare;Kejsare;Kejsare;;Kejsare;;;;;;;;;x
+emperor_female_swedish;Kejsarinnans;Kejsarinnans;Kejsarinnans;;Kejsarinnans;;;;;;;;;x
+empire_of_swedish;Kejsard鰉et;Kejsard鰉et;Kejsard鰉et;;Kejsard鰉et;;;;;;;;;x
+king_swedish;Konung;Konung;Konung;;Konung;;;;;;;;;x
+king_female_swedish;Drottning;Drottning;Drottning;;Drottning;;;;;;;;;x
+kingdom_of_swedish;Konungariket;Konungariket;Konungariket;;Konungariket;;;;;;;;;x
+title_prince_swedish;Prins;Prins;Prins;;Prins;;;;;;;;;x
+title_prince_female_swedish;Prinsessa;Prinsessa;Prinsessa;;Prinsessa;;;;;;;;;x
+duke_swedish;Hertig;Hertig;Hertig;;Hertig;;;;;;;;;x
+duke_female_swedish;Hertiginna;Hertiginna;Hertiginna;;Hertiginna;;;;;;;;;x
+duchy_of_swedish;Hertigd鰉et;Hertigd鰉et;Hertigd鰉et;;Hertigd鰉et;;;;;;;;;x
+count_swedish;Greve;Greve;Greve;;Greve;;;;;;;;;x
+count_female_swedish;Grevinna;Grevinna;Grevinna;;Grevinna;;;;;;;;;x
+county_of_swedish;Grevskap af;Grevskap af;Grevskap af;;Grevskap af;;;;;;;;;x
+#danish
+#Titles
+emperor_danish;Kejser;Kejser;Kejser;;Kejser;;;;;;;;;x
+emperor_female_danish;Kejserinde;Kejserinde;Kejserinde;;Kejserinde;;;;;;;;;x
+empire_of_danish;Kejserd鴐met;Kejserd鴐met;Kejserd鴐met;;Kejserd鴐met;;;;;;;;;x
+king_danish;Konge;Konge;Konge;;Konge;;;;;;;;;x
+king_female_danish;Dronning;Dronning;Dronning;;Dronning;;;;;;;;;x
+kingdom_of_danish;Kongeriget;Kongeriget;Kongeriget;;Kongeriget;;;;;;;;;x
+title_prince_danish;Prins;Prins;Prins;;Prins;;;;;;;;;x
+title_prince_female_danish;Prinsesse;Prinsesse;Prinsesse;;Prinsesse;;;;;;;;;x
+duke_danish;Hertug;Hertug;Hertug;;Hertug;;;;;;;;;x
+duke_female_danish;Hertuginde;Hertuginde;Hertuginde;;Hertuginde;;;;;;;;;x
+duchy_of_danish;Hertugd鴐met;Hertugd鴐met;Hertugd鴐met;;Hertugd鴐met;;;;;;;;;x
+count_danish;Greve;Greve;Greve;;Greve;;;;;;;;;x
+count_female_danish;Grevinde;Grevinde;Grevinde;;Grevinde;;;;;;;;;x
+county_of_danish;Grevskab af;Grevskab af;Grevskab af;;Grevskab af;;;;;;;;;x
+#norwegian
+#Titles
+emperor_norwegian;Kejser;Kejser;Kejser;;Kejser;;;;;;;;;x
+emperor_female_norwegian;Keiserinnen;Keiserinnen;Keiserinnen;;Keiserinnen;;;;;;;;;x
+empire_of_norwegian;Kejserd鴐met;Kejserd鴐met;Kejserd鴐met;;Kejserd鴐met;;;;;;;;;x
+king_norwegian;Konge;Konge;Konge;;Konge;;;;;;;;;x
+king_female_norwegian;Dronning;Dronning;Dronning;;Dronning;;;;;;;;;x
+kingdom_of_norwegian;Konged鴐met;Konged鴐met;Konged鴐met;;Konged鴐met;;;;;;;;;x
+title_prince_norwegian;Prins;Prins;Prins;;Prins;;;;;;;;;x
+title_prince_female_norwegian;Prinsesse;Prinsesse;Prinsesse;;Prinsesse;;;;;;;;;x
+duke_norwegian;Hertug;Hertug;Hertug;;Hertug;;;;;;;;;x
+duke_female_norwegian;Hertuginnen;Hertuginnen;Hertuginnen;;Hertuginnen;;;;;;;;;x
+duchy_of_norwegian;Hertugd鴐met;Hertugd鴐met;Hertugd鴐met;;Hertugd鴐met;;;;;;;;;x
+count_norwegian;Greve;Greve;Greve;;Greve;;;;;;;;;x
+count_female_norwegian;Grevinnens;Grevinnens;Grevinnens;;Grevinnens;;;;;;;;;x
+county_of_norwegian;Grevskap av;Grevskap av;Grevskap av;;Grevskap av;;;;;;;;;x
+#saxon
+#Titles
+emperor_saxon;H閍hc醩ere;H閍hc醩ere;H閍hc醩ere;;H閍hc醩ere;;;;;;;;;x
+emperor_female_saxon;揲odcw閚;揲odcw閚;揲odcw閚;;揲odcw閚;;;;;;;;;x
+empire_of_saxon;H閍fodr韈e of;H閍fodr韈e of;H閍fodr韈e of;;H閍fodr韈e of;;;;;;;;;x
+king_saxon;Cyning;Cyning;Cyning;;Cyning;;;;;;;;;x
+king_female_saxon;Cw閚;Cw閚;Cw閚;;Cw閚;;;;;;;;;x
+kingdom_of_saxon;Cyningr韈e of;Cyningr韈e of;Cyningr韈e of;;Cyningr韈e of;;;;;;;;;x
+title_prince_saxon;起eling;起eling;起eling;;起eling;;;;;;;;;x
+title_prince_female_saxon;起eldohtor;起eldohtor;起eldohtor;;起eldohtor;;;;;;;;;x
+duke_saxon;Eorl;Eorl;Eorl;;Eorl;;;;;;;;;x
+duke_female_saxon;Eorlen;Eorlen;Eorlen;;Eorlen;;;;;;;;;x
+duchy_of_saxon;Eorlr韈e of;Eorlr韈e of;Eorlr韈e of;;Eorlr韈e of;;;;;;;;;x
+count_saxon;Sc韗ger閒a;Sc韗ger閒a;Sc韗ger閒a;;Sc韗ger閒a;;;;;;;;;x
+count_female_saxon;Sc韗ger閒en;Sc韗ger閒en;Sc韗ger閒en;;Sc韗ger閒en;;;;;;;;;x
+county_of_saxon;Sc韗 of;Sc韗 of;Sc韗 of;;Sc韗 of;;;;;;;;;x
+#old_old_saxon
+#Titles -PH-
+emperor_old_saxon;H閍hc醩ere;H閍hc醩ere;H閍hc醩ere;;H閍hc醩ere;;;;;;;;;x
+emperor_female_old_saxon;揲odcw閚;揲odcw閚;揲odcw閚;;揲odcw閚;;;;;;;;;x
+empire_of_old_saxon;H閍fodr韈e of;H閍fodr韈e of;H閍fodr韈e of;;H閍fodr韈e of;;;;;;;;;x
+king_old_saxon;Cyning;Cyning;Cyning;;Cyning;;;;;;;;;x
+king_female_old_saxon;Cw閚;Cw閚;Cw閚;;Cw閚;;;;;;;;;x
+kingdom_of_old_saxon;Cyningr韈e of;Cyningr韈e of;Cyningr韈e of;;Cyningr韈e of;;;;;;;;;x
+title_prince_old_saxon;起eling;起eling;起eling;;起eling;;;;;;;;;x
+title_prince_female_old_saxon;起eldohtor;起eldohtor;起eldohtor;;起eldohtor;;;;;;;;;x
+duke_old_saxon;Eorl;Eorl;Eorl;;Eorl;;;;;;;;;x
+duke_female_old_saxon;Eorlen;Eorlen;Eorlen;;Eorlen;;;;;;;;;x
+duchy_of_old_saxon;Eorlr韈e of;Eorlr韈e of;Eorlr韈e of;;Eorlr韈e of;;;;;;;;;x
+count_old_saxon;Sc韗ger閒a;Sc韗ger閒a;Sc韗ger閒a;;Sc韗ger閒a;;;;;;;;;x
+count_female_old_saxon;Sc韗ger閒en;Sc韗ger閒en;Sc韗ger閒en;;Sc韗ger閒en;;;;;;;;;x
+county_of_old_saxon;Sc韗 of;Sc韗 of;Sc韗 of;;Sc韗 of;;;;;;;;;x
+#visigothic
+#Titles -PH-
+emperor_visigothic;Kaiser;Kaiser;Kaiser;;Kaiser;;;;;;;;;x
+emperor_female_visigothic;Kaiserin;Kaiserin;Kaiserin;;Kaiserin;;;;;;;;;x
+empire_of_visigothic;Reich von;Reich von;Reich von;;Reich von;;;;;;;;;x
+king_visigothic;K鰊ig;K鰊ig;K鰊ig;;K鰊ig;;;;;;;;;x
+king_female_visigothic;K鰊igin;K鰊igin;K鰊igin;;K鰊igin;;;;;;;;;x
+kingdom_of_visigothic;K鰊igreich;K鰊igreich;K鰊igreich;;K鰊igreich;;;;;;;;;x
+title_prince_visigothic;Prinz;Prinz;Prinz;;Prinz;;;;;;;;;x
+title_prince_female_visigothic;Prinzessin;Prinzessin;Prinzessin;;Prinzessin;;;;;;;;;x
+duke_visigothic;Herzog;Herzog;Herzog;;Herzog;;;;;;;;;x
+duke_female_visigothic;Herzogin;Herzogin;Herzogin;;Herzogin;;;;;;;;;x
+duchy_of_visigothic;Herzogtum von;Herzogtum von;Herzogtum von;;Herzogtum von;;;;;;;;;x
+count_visigothic;Graf;Graf;Graf;;Graf;;;;;;;;;x
+count_female_visigothic;Gr鋐in;Gr鋐in;Gr鋐in;;Gr鋐in;;;;;;;;;x
+county_of_visigothic;Grafschaft von;Grafschaft von;Grafschaft von;;Grafschaft von;;;;;;;;;x
+#suebi
+#Titles -PH-
+emperor_suebi;Kaiser;Kaiser;Kaiser;;Kaiser;;;;;;;;;x
+emperor_female_suebi;Kaiserin;Kaiserin;Kaiserin;;Kaiserin;;;;;;;;;x
+empire_of_suebi;Reich von;Reich von;Reich von;;Reich von;;;;;;;;;x
+king_suebi;K鰊ig;K鰊ig;K鰊ig;;K鰊ig;;;;;;;;;x
+king_female_suebi;K鰊igin;K鰊igin;K鰊igin;;K鰊igin;;;;;;;;;x
+kingdom_of_suebi;K鰊igreich;K鰊igreich;K鰊igreich;;K鰊igreich;;;;;;;;;x
+title_prince_suebi;Prinz;Prinz;Prinz;;Prinz;;;;;;;;;x
+title_prince_female_suebi;Prinzessin;Prinzessin;Prinzessin;;Prinzessin;;;;;;;;;x
+duke_suebi;Herzog;Herzog;Herzog;;Herzog;;;;;;;;;x
+duke_female_suebi;Herzogin;Herzogin;Herzogin;;Herzogin;;;;;;;;;x
+duchy_of_suebi;Herzogtum von;Herzogtum von;Herzogtum von;;Herzogtum von;;;;;;;;;x
+count_suebi;Graf;Graf;Graf;;Graf;;;;;;;;;x
+count_female_suebi;Gr鋐in;Gr鋐in;Gr鋐in;;Gr鋐in;;;;;;;;;x
+county_of_suebi;Grafschaft von;Grafschaft von;Grafschaft von;;Grafschaft von;;;;;;;;;x

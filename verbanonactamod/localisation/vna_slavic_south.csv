@@ -1,0 +1,48 @@
+#croatian
+#Titles
+emperor_croatian;Car;Car;Car;;Car;;;;;;;;;x
+emperor_female_croatian;Carica;Carica;Carica;;Carica;;;;;;;;;x
+empire_of_croatian;Carstvo;Carstvo;Carstvo;;Carstvo;;;;;;;;;x
+king_croatian;Kralj;Kralj;Kralj;;Kralj;;;;;;;;;x
+king_female_croatian;Kraljica;Kraljica;Kraljica;;Kraljica;;;;;;;;;x
+kingdom_of_croatian;Kraljevstvo;Kraljevstvo;Kraljevstvo;;Kraljevstvo;;;;;;;;;x
+title_prince_croatian;Princ;Princ;Princ;;Princ;;;;;;;;;x
+title_prince_female_croatian;Princeza;Princeza;Princeza;;Princeza;;;;;;;;;x
+duke_croatian;Knez;Knez;Knez;;Knez;;;;;;;;;x
+duke_female_croatian;Kneginja;Kneginja;Kneginja;;Kneginja;;;;;;;;;x
+duchy_of_croatian;Kneževina od;Kneževina od;Kneževina od;;Kneževina od;;;;;;;;;x
+count_croatian;Ban;Ban;Ban;;Ban;;;;;;;;;x
+count_female_croatian;Banica;Banica;Banica;;Banica;;;;;;;;;x
+county_of_croatian;Županija od;Županija od;Županija od;;Županija od;;;;;;;;;x
+#serbian
+#Titles
+emperor_serbian;Car;Car;Car;;Car;;;;;;;;;x
+emperor_female_serbian;Carica;Carica;Carica;;Carica;;;;;;;;;x
+empire_of_serbian;Carstvo;Carstvo;Carstvo;;Carstvo;;;;;;;;;x
+king_serbian;Kralj;Kralj;Kralj;;Kralj;;;;;;;;;x
+king_female_serbian;Kraljica;Kraljica;Kraljica;;Kraljica;;;;;;;;;x
+kingdom_of_serbian;Kraljevina;Kraljevina;Kraljevina;;Kraljevina;;;;;;;;;x
+title_prince_serbian;Princ;Princ;Princ;;Princ;;;;;;;;;x
+title_prince_female_serbian;Princeza;Princeza;Princeza;;Princeza;;;;;;;;;x
+duke_serbian;Vojvoda;Vojvoda;Vojvoda;;Vojvoda;;;;;;;;;x
+duke_female_serbian;Vojvotkinja;Vojvotkinja;Vojvotkinja;;Vojvotkinja;;;;;;;;;x
+duchy_of_serbian;Vojvodstvo od;Vojvodstvo od;Vojvodstvo od;;Vojvodstvo od;;;;;;;;;x
+count_serbian;Ban;Ban;Ban;;Ban;;;;;;;;;x
+count_female_serbian;Banica;Banica;Banica;;Banica;;;;;;;;;x
+county_of_serbian;Županija od;Županija od;Županija od;;Županija od;;;;;;;;;x
+#bulgarian
+#Titles
+emperor_bulgarian;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+emperor_female_bulgarian;Imperatritsa;Imperatritsa;Imperatritsa;;Imperatritsa;;;;;;;;;x
+empire_of_bulgarian;Imperiyata na;Imperiyata na;Imperiyata na;;Imperiyata na;;;;;;;;;x
+king_bulgarian;Tsar;Tsar;Tsar;;Tsar;;;;;;;;;x
+king_female_bulgarian;Tsaritsa;Tsaritsa;Tsaritsa;;Tsaritsa;;;;;;;;;x
+kingdom_of_bulgarian;Tsarstvo;Tsarstvo;Tsarstvo;;Tsarstvo;;;;;;;;;x
+title_prince_bulgarian;Tsarevich;Tsarevich;Tsarevich;;Tsarevich;;;;;;;;;x
+title_prince_female_bulgarian;Tsarevna;Tsarevna;Tsarevna;;Tsarevna;;;;;;;;;x
+duke_bulgarian;Knyaz;Knyaz;Knyaz;;Knyaz;;;;;;;;;x
+duke_female_bulgarian;Knyaginya;Knyaginya;Knyaginya;;Knyaginya;;;;;;;;;x
+duchy_of_bulgarian;Knyazhestvo na;Knyazhestvo na;Knyazhestvo na;;Knyazhestvo na;;;;;;;;;x
+count_bulgarian;Boyarin;Boyarin;Boyarin;;Boyarin;;;;;;;;;x
+count_female_bulgarian;Boyarinya;Boyarinya;Boyarinya;;Boyarinya;;;;;;;;;x
+county_of_bulgarian;Udel na;Udel na;Udel na;;Udel na;;;;;;;;;x
